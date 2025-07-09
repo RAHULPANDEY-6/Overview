@@ -43,18 +43,6 @@ I'm a Commerce postgraduate with a passion for data analytics. I enjoy transform
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/rahul-pandey-42110b122/)
-- [GitHub](https://github.com/RAHULPANDEY-6)
-
----
-
-📬 Feel free to explore my profile and connect if you'd like to collaborate or provide feedback!
-
-
-
-
-## 🌐 Connect with Me
-
 <p>
   <a href="https://www.linkedin.com/in/rahul-pandey-42110b122/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
