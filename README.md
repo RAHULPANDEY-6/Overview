@@ -25,7 +25,7 @@ I'm a Commerce postgraduate with a passion for data analytics. I enjoy transform
 
 - Microsoft **Excel**
 - **Power BI**
-- Basic **SQL** (theoretical understanding in progress)
+- Basic **SQL** 
 - Power Query
 - DAX
 - Charts & Maps
